@@ -1,5 +1,5 @@
 ### Hi there 👋
-Welcome to my profile, and don't forget to learn with Practiz.
+Welcome to my profile, use CloudBoz to manage your servers and applications.
 
 ### Follow us
 - Facebook: https://facebook.com/cloudbozcom
