@@ -2,8 +2,8 @@
 Welcome to my profile, use CloudBoz to manage your servers and applications.
 
 ### Follow us
-- Facebook: https://facebook.com/cloudbozcom
-- Twitter: https://twitter.com/cloudbozcom
-- LinkedIn: https://linkedin.com/company/cloudboz
-- GitHub: https://github.com/cloudbozcom
-- YouTube: https://www.youtube.com/channel/UCvi6MYIzgXMS4o-QhtLR87A
+- Facebook: https://bit.ly/cloudboz-facebook
+- Twitter: https://bit.ly/cloudboz-twitter
+- GitHub: https://bit.ly/cloudboz-github
+- YouTube: https://bit.ly/cloudboz-youtube
+- LinkedIn: https://bit.ly/cloudboz-linkedin
