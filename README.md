@@ -1,5 +1,5 @@
 ### Hi there 👋
-Welcome to my profile, use CloudBoz to manage your servers and applications.
+Welcome to our profile. Use CloudBoz to manage your servers and applications.
 
 ### Follow us
 - Facebook: https://bit.ly/cloudboz-facebook
